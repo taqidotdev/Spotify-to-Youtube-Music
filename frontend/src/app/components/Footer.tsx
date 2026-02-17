@@ -19,7 +19,7 @@ export default function Footer() {
 					</p>
 				</Link>
 				<Link
-					href="https://github.com/Iqat476/Spotify-to-Youtube-Music"
+					href="https://github.com/taqidotdev/Spotify-to-Youtube-Music"
 					target="_blank"
 				>
 					<svg
